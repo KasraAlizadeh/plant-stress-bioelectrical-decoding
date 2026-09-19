@@ -183,30 +183,6 @@ Zahra Nazar Zadeh Attar, Iman Javaheri Neyestanak, Kasra Alizadeh, Arek Berc Gok
 
 <br>
 
-## 🗂️ Repository Structure
-
-<details>
-<summary><b>📁 Click to expand</b></summary>
-
-```
-.
-├── data/               # Electrophysiological recordings / dataset references
-├── src/                # Feature extraction, embedding, and detector implementation
-│   ├── preprocessing/  # Interference suppression, segmentation
-│   ├── features/       # Statistical, temporal, spectral, multiscale features
-│   └── model/          # Gradient boosting detector
-├── notebooks/          # Experiments and result visualizations
-├── results/            # Evaluation metrics, ROC/PR curves
-├── paper/              # Camera-ready PDF
-└── README.md
-```
-
-> Update this structure to match the actual repository layout once the code is organized.
-
-</details>
-
-<br>
-
 ## ⚙️ Getting Started
 
 ```bash
